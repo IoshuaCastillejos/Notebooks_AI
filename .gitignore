@@ -1,0 +1,25 @@
+# Archivos temporales de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Modelos entrenados (pesan mucho, se regeneran al entrenar)
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# Logs de entrenamiento
+runs/
+wandb/
+logs/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
