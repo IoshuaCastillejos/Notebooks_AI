@@ -1,0 +1,2 @@
+Comparación,Δ F1 macro (pp),IC95 bootstrap (pp),p bootstrap pareado,p ajustado (Holm),Significativa
+distilbert vs bert,+4.37,"[-6.25, 13.28]",0.4577,0.4577,no

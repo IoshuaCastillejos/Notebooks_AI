@@ -1,0 +1,3 @@
+max_len,F1 val (%),IC95 t (val),F1 test (%),Entrenamiento (s)
+64,35.10 ± 0.00,"[nan, nan]",33.5,13
+128,43.67 ± 0.00,"[nan, nan]",37.82,25
