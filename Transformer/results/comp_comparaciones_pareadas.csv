@@ -2,6 +2,10 @@ Comparación,Δ F1 macro (pp),IC95 bootstrap (pp),p bootstrap pareado,p ajustado
 distilbert vs roberta,+0.15,"[-0.64, 1.08]",0.755,1.0,no
 distilbert vs bert,-0.14,"[-1.06, 0.76]",0.771,1.0,no
 distilbert vs electra,+0.22,"[-0.71, 1.22]",0.6767,1.0,no
+distilbert vs deberta-v3,+0.11,"[-0.90, 1.04]",0.8078,1.0,no
 roberta vs bert,-0.29,"[-1.15, 0.48]",0.4795,1.0,no
 roberta vs electra,+0.06,"[-0.45, 0.62]",0.9026,1.0,no
+roberta vs deberta-v3,-0.05,"[-0.85, 0.73]",0.8866,1.0,no
 bert vs electra,+0.35,"[-0.56, 1.42]",0.4927,1.0,no
+bert vs deberta-v3,+0.24,"[-0.68, 1.21]",0.5863,1.0,no
+electra vs deberta-v3,-0.11,"[-0.87, 0.61]",0.7475,1.0,no

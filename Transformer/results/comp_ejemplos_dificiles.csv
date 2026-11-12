@@ -1,9 +1,9 @@
-Texto,Real,Tasa de fallo,distilbert,roberta,bert,electra
-Golden rule 'intact' says ex-aide. Chancellor Gordon Brown will meet his golden economic r...,business,1.0,politics,politics,politics,politics
-UK firms 'embracing e-commerce'. UK firms are embracing internet trading opportunities as ...,politics,1.0,business,tech,tech,tech
-Web radio takes Spanish rap global. Spin the radio dial in the US and you are likely to fi...,tech,0.83,tech,entertainment,entertainment,entertainment
-Musicians 'upbeat' about the net. Musicians are embracing the internet as a way of reachin...,tech,0.67,tech,entertainment,tech,entertainment
-US bank boss hails 'genius' Smith. US Federal Reserve chairman Alan Greenspan has given a ...,business,0.67,politics,politics,business,politics
-BAA support ahead of court battle. UK airport operator BAA has reiterated its support for ...,politics,0.67,business,business,business,politics
-Call to save manufacturing jobs. The Trades Union Congress (TUC) is calling on the governm...,business,0.58,politics,business,politics,business
-Who do you think you are? The real danger is not what happens to your data as it crosses t...,tech,0.42,tech,tech,business,tech
+Texto,Real,Tasa de fallo,distilbert,roberta,bert,electra,deberta-v3
+Golden rule 'intact' says ex-aide. Chancellor Gordon Brown will meet his golden economic r...,business,1.0,politics,politics,politics,politics,politics
+UK firms 'embracing e-commerce'. UK firms are embracing internet trading opportunities as ...,politics,1.0,business,tech,tech,tech,tech
+Web radio takes Spanish rap global. Spin the radio dial in the US and you are likely to fi...,tech,0.87,tech,entertainment,entertainment,entertainment,entertainment
+US bank boss hails 'genius' Smith. US Federal Reserve chairman Alan Greenspan has given a ...,business,0.73,politics,politics,business,politics,politics
+Musicians 'upbeat' about the net. Musicians are embracing the internet as a way of reachin...,tech,0.67,tech,entertainment,tech,entertainment,entertainment
+Call to save manufacturing jobs. The Trades Union Congress (TUC) is calling on the governm...,business,0.67,politics,business,politics,business,politics
+BAA support ahead of court battle. UK airport operator BAA has reiterated its support for ...,politics,0.53,business,business,business,politics,politics
+Who do you think you are? The real danger is not what happens to your data as it crosses t...,tech,0.33,tech,tech,business,tech,tech
