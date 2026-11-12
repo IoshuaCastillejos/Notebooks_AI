@@ -1,3 +1,5 @@
 Modelo,Pérdida entrenamiento (última época),Pérdida validación (última época),Brecha validación - entrenamiento,Época del mejor checkpoint (media),F1 val: mejor época - última (pp)
-distilbert,1.583 ± 0.000,1.548 ± 0.000,-0.035 ± 0.000,1.0 de 1,0.00 ± 0.00
-bert,1.582 ± 0.000,1.494 ± 0.000,-0.088 ± 0.000,1.0 de 1,0.00 ± 0.00
+distilbert,0.407 ± 0.002,0.432 ± 0.002,0.026 ± 0.004,2.7 de 3,0.22 ± 0.38
+roberta,0.399 ± 0.002,0.435 ± 0.006,0.036 ± 0.008,2.7 de 3,0.09 ± 0.16
+bert,0.402 ± 0.001,0.433 ± 0.007,0.031 ± 0.008,2.7 de 3,0.00 ± 0.00
+electra,0.419 ± 0.002,0.439 ± 0.013,0.020 ± 0.011,2.7 de 3,0.12 ± 0.21
