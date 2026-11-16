@@ -1,9 +1,25 @@
 Inicio del artículo,Categoría real,Predicción,Prob. predicha,Prob. real
-"""Golden rule 'intact' says ex-aide. Chancellor...""",business,politics,"0,928","0,025"
-"""Who do you think you are? The real danger is...""",tech,business,"0,897","0,041"
-"""UK firms 'embracing e-commerce'. UK firms are...""",politics,business,"0,865","0,024"
-"""Download chart debut is delayed. The inclusio...""",entertainment,tech,"0,457","0,427"
-"""US bank boss hails 'genius' Smith. US Federal...""",business,politics,"0,518","0,394"
-"""Moving mobile improves golf swing. A mobile p...""",tech,tech,"0,931","0,931"
-"""Fed chief warning on US deficit. Federal Rese...""",business,business,"0,796","0,796"
-"""Thanou bullish over drugs hearing. Katerina T...""",sport,sport,"0,935","0,935"
+"""Golden rule 'intact' says ex-aide
+
+Chancell...""",business,politics,"0,928","0,025"
+"""Who do you think you are?
+
+The real danger...""",tech,business,"0,897","0,041"
+"""UK firms 'embracing e-commerce'
+
+UK firms a...""",politics,business,"0,865","0,024"
+"""Download chart debut is delayed
+
+The inclus...""",entertainment,tech,"0,457","0,427"
+"""US bank boss hails 'genius' Smith
+
+US Feder...""",business,politics,"0,518","0,394"
+"""Moving mobile improves golf swing
+
+A mobile...""",tech,tech,"0,931","0,931"
+"""Fed chief warning on US deficit
+
+Federal Re...""",business,business,"0,796","0,796"
+"""Thanou bullish over drugs hearing
+
+Katerina...""",sport,sport,"0,935","0,935"
